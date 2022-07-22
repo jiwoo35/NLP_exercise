@@ -1,4 +1,3 @@
-# NLP
-NLP Exercise
+# NLP_Exercise
 
 1. NLP in Action
